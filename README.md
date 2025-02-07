@@ -30,7 +30,7 @@ Penguin Dash is a simple yet engaging Unity-based game built using the .NET fram
 1. Clone or download this repository to your local machine.
 2. Open the project in Unity.
 3. Build and run the game.
-4. Control the penguin using keyboard or mouse input (depending on how it's set up).
+4. Control the penguin using keyboard or mouse input.
 5. Collect coins to increase your score before time runs out!
 
 ## Installation Instructions
